@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Instagram Growth Planner",
+  "description": "An interactive Growth Simulator and AI Content Optimizer for boosting Instagram views organically, explaining the risks of synthetic bot boosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
